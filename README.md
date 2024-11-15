@@ -56,7 +56,7 @@ while True:
 c.close()  
 ```
 
-## OUPUT
+## OUTPUT
 ### Server
 <img width="703" alt="Screen Shot 1946-07-01 at 20 49 40" src="https://github.com/user-attachments/assets/1bf63bcc-03e9-417c-942e-7b19f3488ce9">
 
